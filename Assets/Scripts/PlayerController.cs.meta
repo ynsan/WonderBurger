@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7874f66ae11bec64493418bcf2e5812a
+timeCreated: 1527120499
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_cam: {instanceID: 0}
+  - BulletPoint: {instanceID: 0}
+  - Damage_ParticleEffects: {fileID: 1681007073682878, guid: eb1c619b8f054d142aa24f81d03ffcb7,
+      type: 2}
+  - _BulletController_: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

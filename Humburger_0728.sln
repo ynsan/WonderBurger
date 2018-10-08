@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Humburger_0728", "Humburger_0728.csproj", "{6B6E78E1-6FDC-0789-44AA-A24D5D177B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Humburger_0728.Editor", "Humburger_0728.Editor.csproj", "{1BB7BC6E-42FF-8F86-E910-10BF97B3A234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6E78E1-6FDC-0789-44AA-A24D5D177B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6E78E1-6FDC-0789-44AA-A24D5D177B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6E78E1-6FDC-0789-44AA-A24D5D177B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6E78E1-6FDC-0789-44AA-A24D5D177B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB7BC6E-42FF-8F86-E910-10BF97B3A234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB7BC6E-42FF-8F86-E910-10BF97B3A234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB7BC6E-42FF-8F86-E910-10BF97B3A234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB7BC6E-42FF-8F86-E910-10BF97B3A234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

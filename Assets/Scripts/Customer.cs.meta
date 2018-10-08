@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6610ba167bd40ca4f995d64360fcfa17
+timeCreated: 1528278853
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OrderItem: {instanceID: 0}
+  - OrderClear_Particle: {fileID: 1138285158163902, guid: 1af5095125341a844b4bae0b0c28f2df,
+      type: 2}
+  - OrderMiss_Particle: {fileID: 1044266041159440, guid: 3b422481222d69247b235d18ae5dc32f,
+      type: 2}
+  - _CustomersController_: {instanceID: 0}
+  - _PlayerController_: {instanceID: 0}
+  - cusState_canvas: {fileID: 223551731050065130, guid: b43c16827bd9dba47908caac2f00aa76,
+      type: 2}
+  - StateGauge: {fileID: 114923796184931336, guid: b43c16827bd9dba47908caac2f00aa76,
+      type: 2}
+  - baseGauge: {fileID: 114526387031952790, guid: b43c16827bd9dba47908caac2f00aa76,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
