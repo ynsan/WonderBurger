@@ -3,7 +3,7 @@
 2018TokyoGameShowで展示した学生ゲーム作品です。
 これはグループ制作作品で、主にプログラミング、3Dモデルと3Dモーションを担当しました。
 
-<img src="https://github.com/ynsan/WonderBurger/Title_ss.png">
+<img src="https://github.com/ynsan/WonderBurger/blob/master/Title_ss.png">
 
 制作期間：2018年4月から7月程度
 制作メンバー数：3人
@@ -11,7 +11,7 @@
 ジャンル：シューティング仕分けゲーム
 主にゲームパッドを使用して遊ぶ用に制作しました。
 
-<img src="https://github.com/ynsan/WonderBurger/ss_shoting.png">
+<img src="https://github.com/ynsan/WonderBurger/blob/master/ss_shoting.png">
 
 
 【PCでの操作方法】
