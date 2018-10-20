@@ -24,3 +24,6 @@
 
 
 ※グラフィック素材は全てこのゲームオリジナルです。
+
+【ビルドゲームデータ】
+https://drive.google.com/open?id=1KBfwghmTgcuf8luDB-cNG-P-WK3SoIDT
